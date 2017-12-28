@@ -13,4 +13,16 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="tx_company">Press Metal</string>
+    <string name="tx_price">RM 2.73</string>
+    <string name="tx_unit">500 unit</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="tx_fee">RM 18</string>
+    <string name="tx_total">RM 1250.20</string>
+    <string name="unit">Unit</string>
+    <string name="total">Total</string>
+    <string name="buy">Buy</string>
+    <string name="new_stock">New Stock</string>
 </resources>
